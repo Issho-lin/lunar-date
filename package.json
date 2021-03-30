@@ -1,0 +1,23 @@
+{
+  "name": "lunar-date",
+  "version": "1.0.0",
+  "description": "农历日期",
+  "main": "./dist/bundle.js",
+  "author": "linqibin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Issho-lin/lunar-date.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "rollup": "^2.44.0",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-uglify": "^6.0.4"
+  },
+  "scripts": {
+    "build": "npx rollup --config"
+  }
+}
