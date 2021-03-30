@@ -1,10 +1,11 @@
 {
-  "name": "lunar-date",
-  "version": "1.0.0",
+  "name": "lunar-datejs",
+  "version": "1.0.1",
   "description": "农历日期",
   "main": "./dist/bundle.js",
   "author": "linqibin",
   "license": "MIT",
+  "keywords": ["lunar", "date", "农历"],
   "repository": {
     "type": "git",
     "url": "https://github.com/Issho-lin/lunar-date.git"
